@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @nityarai08
-- 👀 I’m interested in numerical algorithms
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on application of LLM
+- 👀 I’m interested in algorithms
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
